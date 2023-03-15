@@ -1,4 +1,4 @@
-<h1>Hi, I'm Riddhi Modi! <br/><a href="https://github.com/joshmadakor1">Front-End Developer</a>
+<h1>Hi, I'm Riddhi Modi! <br/><a href="https://github.com/riddhi-modi">Front-End Developer</a>
 
 <h2>👨‍💻 Front-End Development Projects:</h2>
 
