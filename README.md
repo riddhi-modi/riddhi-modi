@@ -5,7 +5,7 @@
 - <b>EMS Web Layout</b>
   - [Employee Management System](https://github.com/riddhi-modi/EMS-WEB)
 - <b>Blogging Website Layout</b>
-  - [Blogging Pages]()
+  - [Blogging Pages](https://github.com/riddhi-modi/Blog-Website)
 - <b>Real-world Education Website Layout</b>
   - [Demo Project - Responsive Web Design]()
 - <b>Personal Website</b>
