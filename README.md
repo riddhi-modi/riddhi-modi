@@ -8,8 +8,8 @@
   - [Blogging Pages]()
 - <b>Real-world Education Website Layout</b>
   - [Demo Project - Responsive Web Design]()
--<b>Personal Website</b>
-  - [Demo Website]()
+- <b>Personal Website</b>
+  - [Profile Site]()
 
 <h2> 🤳 Connect with me:</h2>
 
