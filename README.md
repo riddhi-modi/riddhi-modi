@@ -7,7 +7,7 @@
 - <b>Blogging Website Layout</b>
   - [Blogging Pages](https://github.com/riddhi-modi/Blog-Website)
 - <b>Real-world Education Website Layout</b>
-  - [Demo Project - Responsive Web Design]()
+  - [Demo Project - Responsive Web Design](https://github.com/riddhi-modi/Education-Website)
 - <b>Personal Website</b>
   - [Profile Site]()
 
