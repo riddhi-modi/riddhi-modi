@@ -1,15 +1,15 @@
-<h1>Hi, I'm Riddhi! <br/><a href="https://github.com/joshmadakor1">Front-End Developer</a>
+<h1>Hi, I'm Riddhi Modi! <br/><a href="https://github.com/joshmadakor1">Front-End Developer</a>
 
 <h2>👨‍💻 Front-End Development Projects:</h2>
 
 - <b>EMS (Employee Management System) Web Layout</b>
-  - [Praciting HTML, CSS, Bootstrap5, JavaScript](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting HTML, CSS, Bootstrap5, JavaScript]()
 - <b>Blogging Website Layout</b>
-  - [Blogging Pages](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Blogging Pages]()
 - <b>Real-world Education Website Layout</b>
-  - [Demo Project - Responsive Web Design](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm
+  - [Demo Project - Responsive Web Design]()
 -<b>Personal Website</b>
-  - [Demo Website] ()
+  - [Demo Website]()
 
 <h2> 🤳 Connect with me:</h2>
 
