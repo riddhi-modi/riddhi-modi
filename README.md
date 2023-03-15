@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Front-End Development Projects:</h2>
 
-- <b>EMS (Employee Management System) Web Layout</b>
-  - [Praciting HTML, CSS, Bootstrap5, JavaScript]()
+- <b>EMS Web Layout</b>
+  - [Employee Management System]()
 - <b>Blogging Website Layout</b>
   - [Blogging Pages]()
 - <b>Real-world Education Website Layout</b>
